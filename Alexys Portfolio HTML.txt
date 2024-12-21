@@ -95,15 +95,21 @@
             margin-bottom: 20px;
         }
 
-        #skills ul {
-            list-style-type: none;
-            padding: 0;
-            margin-top: 20px;
-        }
 
-        #skills li {
-            font-size: 1.1rem;
-            margin-bottom: 10px;
+#skills .skills-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 0;
+    list-style: none;
+}
+
+#skills .skills-list li {
+    width: 48%;  /* Set each list item to take up 48% of the container's width */
+    margin-bottom: 10px;  /* Add space between rows */
+}
+
+
         }
 
         .project {
