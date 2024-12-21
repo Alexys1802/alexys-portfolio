@@ -96,6 +96,8 @@
         }
 
 
+/* Existing CSS for other sections... */
+
 #skills .skills-list {
     display: flex;
     flex-wrap: wrap;
@@ -108,6 +110,9 @@
     width: 48%;  /* Set each list item to take up 48% of the container's width */
     margin-bottom: 10px;  /* Add space between rows */
 }
+
+/* Existing CSS for footer, other sections, etc. */
+
 
 
         }
