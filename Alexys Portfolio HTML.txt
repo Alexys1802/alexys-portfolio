@@ -312,6 +312,14 @@
     </div>
 </section>
 
+    <section id="education">
+        <div class="container">
+            <h2>Education</h2>
+            <p><strong>Bachelor's Degree in Marketing</strong></p>
+            <p>University of [Your University Name]</p>
+        </div>
+    </section>
+
     <section id="projects">
         <div class="container">
             <h2>Projects</h2>
