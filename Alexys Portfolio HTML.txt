@@ -267,17 +267,28 @@
         </div>
     </section>
 
-    <section id="skills">
-        <div class="container">
-            <h2>Skills</h2>
-            <ul>
-                <li>Adobe Creative Suite (Photoshop, Illustrator, InDesign)</li>
-                <li>Microsoft Office Suite</li>
-                <li>Canva</li>
-                <li>Brand Development & Graphic Design</li>
-                <li>Social Media Marketing</li>
-                <li>SEO, Facebook/Instagram Ads (Meta)</li>
-                <li>Email Marketing</li>
+   <section id="skills">
+    <div class="container">
+        <h2>Skills</h2>
+        <ul class="skills-list">
+            <li>Adobe Creative Suite (Photoshop, Illustrator, InDesign)</li>
+            <li>Microsoft Office Suite</li>
+            <li>Canva</li>
+            <li>Brand Development & Graphic Design</li>
+            <li>Social Media Marketing</li>
+            <li>SEO, Facebook/Instagram Ads (Meta)</li>
+            <li>Email Marketing</li>
+            <li>Market Research & Data Analysis</li>
+            <li>Digital and Email Marketing Campaigns</li>
+            <li>Creative Content Strategy</li>
+            <li>Event Planning & Coordination</li>
+            <li>Customer Relationship Management</li>
+            <li>Content Marketing & Copywriting</li>
+            <li>Digital and Print Media Design</li>
+        </ul>
+    </div>
+</section>
+
             </ul>
         </div>
     </section>
