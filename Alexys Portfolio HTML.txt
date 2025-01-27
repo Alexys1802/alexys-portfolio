@@ -320,9 +320,9 @@
         </div>
     </section>
 
-    <section id="projects">
+    <section id="Certificates">
         <div class="container">
-            <h2>Projects</h2>
+            <h2>Certificates</h2>
             <div class="project">
                 <div>
                     <img src="project1.jpg" alt="Project 1">
@@ -332,8 +332,8 @@
                 </div>
                 <div>
                     <img src="project2.jpg" alt="Project 2">
-                    <h3>Project 2</h3>
-                    <p>Description of your project goes here. It's a short summary explaining what the project is about.</p>
+                    <h3>HubSpot Email Marketing</h3>
+                    <p>With this HubSpot certificate, I learned the essential information about email marketing, and marketing automation.</p>
                     <a href="#">View Project</a>
                 </div>
                 <div>
